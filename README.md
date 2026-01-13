@@ -10,7 +10,7 @@ Application Java de gestion d'un tournoi de football à élimination directe.
 - Classement final automatique
 - Menu interactif
 
-##🎮  Guide d'utilisation
+## 🎮  Guide d'utilisation
 
 -Lance le programme : java Main
 
@@ -32,7 +32,7 @@ Application Java de gestion d'un tournoi de football à élimination directe.
 
 8 → Quitter
 
--Déroulement normal :
+## Déroulement normal :
 
 Crée les matchs (option 2)
 
@@ -46,7 +46,7 @@ Joue la finale (option 4 → choix 4)
 
 Vois le classement (option 7)
 
-🔧 Technologies
+## 🔧 Technologies
 
 Langage : Java
 
@@ -56,11 +56,11 @@ Collections : ArrayList pour gérer les listes
 
 Aléatoire : Collections.shuffle() pour les tirages
 
-📅 Auteurs
+## 📅 Auteurs
 
 Zakaria ben Mohamed
 
-📚 Pour l'école
+## 📚 Pour l'école
 
 Projet POO - 2ème année Informatique
 
