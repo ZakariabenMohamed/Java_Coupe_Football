@@ -10,7 +10,7 @@ Application Java de gestion d'un tournoi de football à élimination directe.
 - Classement final automatique
 - Menu interactif
 
-🎮 Guide d'utilisation
+##🎮  Guide d'utilisation
 
 -Lance le programme : java Main
 
